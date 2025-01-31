@@ -4,7 +4,7 @@ import mysql.connector
 from datetime import datetime
 
 
-API_KEY = "AIzaSyB0PRSVKXBA41Pm8JvW5Szz5ds-ZWCrxVs"
+API_KEY = "GENERATE_YOUR_API_KEY"
 CHANNEL_ID = "UCiGyWN6DEbnj2alu7iapuKQ"
 url = f"https://www.googleapis.com/youtube/v3/channels?part=statistics&id={CHANNEL_ID}&key={API_KEY}"
 
